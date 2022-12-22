@@ -13,8 +13,6 @@
 + create-app => créé une application react native.
 + maj => met à jour les packet.
 + usb-creator => lance le logiciel de création de clefs bootable.
-+ mes-alias => montre le contenu de ce fichier.
-+ mes-alias => Affiche le fichier contenant tout les alias custom
-+ mes-alias => Affiche tout les alias custom
 + test => ok test
 + ok test => prout
++ unNewTest => modif du test
